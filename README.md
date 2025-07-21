@@ -1,3 +1,4 @@
+https://github.com/nasstik/sales-bonus.git
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
